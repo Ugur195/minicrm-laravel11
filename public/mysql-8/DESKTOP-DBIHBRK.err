@@ -1,0 +1,6 @@
+2024-09-29T14:53:08.115459Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-09-29T14:53:08.115483Z 0 [System] [MY-013169] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe (mysqld 8.0.30) initializing of server in progress as process 4476
+2024-09-29T14:53:08.171958Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-09-29T14:53:09.636783Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-09-29T14:53:11.055253Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: D:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2024-09-29T14:53:11.382893Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
